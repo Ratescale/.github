@@ -5,8 +5,8 @@
 ### NASA International Space Apps Challenge 2023
 個人で参加するかABLabでメンバーを集めて参加するか(予定)
 
-- [issue](https://github.com/Ratescale/project.README/issues/1)
-- [Repository](https://github.com/Ratescale/NASASpaceAppsChallenge)
+- [イベント情報issue](https://github.com/Ratescale/project.README/issues/1)
+- [プロジェクト管理用Repository](https://github.com/Ratescale/NASASpaceAppsChallenge)
 
 ## Upcoming(参加検討中)
 - S-Booster https://s-booster.jp/
