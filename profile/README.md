@@ -11,3 +11,4 @@
 ## Upcoming(参加検討中)
 - S-Booster https://s-booster.jp/
 - Rocket Pitch NIght https://venturecafetokyo.org/event/rocket-pitch-night-festival-2023/
+- メタバースクリエイティブアワード「MCA2023 夏」 https://prtimes.jp/main/html/rd/p/000000003.000119336.html
