@@ -9,5 +9,4 @@
 - [プロジェクト管理用Repository](https://github.com/Ratescale/NASASpaceAppsChallenge)
 
 ## Upcoming(参加検討中)
-- S-Booster https://s-booster.jp/
-- メタバースクリエイティブアワード「MCA2023 夏」 https://prtimes.jp/main/html/rd/p/000000003.000119336.html
+
