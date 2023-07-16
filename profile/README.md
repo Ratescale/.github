@@ -7,6 +7,10 @@
 ### NASA International Space Apps Challenge 2023
 個人で参加するかABLabでメンバーを集めて参加するか(予定)
 
+### MCA2023 https://github.com/Ratescale/MCA2023/blob/main/README.md
+- Zeppet部門
+- Roblox部門
+
 - [イベント情報issue](https://github.com/Ratescale/project.README/issues/1)
 - [プロジェクト管理用Repository](https://github.com/Ratescale/NASASpaceAppsChallenge)
 
