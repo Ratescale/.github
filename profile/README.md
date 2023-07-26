@@ -18,6 +18,9 @@
 - リンク https://www.program-utsunomiya.ignitionpoint-inc.com/
 - 応募期限 2023/08/06
 
+### PLATEAU AWARD 2023
+- リンク https://www.mlit.go.jp/plateau-next/award/#introduction
+
 ## 管理
 - [イベント情報issue](https://github.com/Ratescale/project.README/issues/1)
 - [プロジェクト管理用Repository](https://github.com/Ratescale/NASASpaceAppsChallenge)
