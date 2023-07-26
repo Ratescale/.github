@@ -11,8 +11,9 @@
 #### Zeppet部門 期限2023/07/31
 - ショート動画部門, アイテム部門 3Ｄ賞
 - アイテム部門についてはZEPETOSTUDIOで審査を通過し、販売しているものでないといけない。
-- Zeppetのアカウントを作らないとだ
+
 #### Roblox部門
+- 制作期間 2023/08/04 ~ 2023/08/06
 
 ### 宇都宮アクセラレーター2023
 - リンク https://www.program-utsunomiya.ignitionpoint-inc.com/
