@@ -22,6 +22,7 @@
 ## 管理
 - [イベント情報issue](https://github.com/Ratescale/project.README/issues/1)
 - [プロジェクト管理用Repository](https://github.com/Ratescale/NASASpaceAppsChallenge)
+- [過去に参加したイベント/ハッカソン](https://github.com/Ratescale/project.README/issues/16)
 
 ## Upcoming
 
