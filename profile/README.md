@@ -8,9 +8,6 @@
 個人で参加するかABLabでメンバーを集めて参加するか(予定)
 
 ### MCA2023 https://github.com/Ratescale/MCA2023/blob/main/README.md
-#### Zeppet部門 期限2023/07/31
-- ショート動画部門, アイテム部門 3Ｄ賞
-- アイテム部門についてはZEPETOSTUDIOで審査を通過し、販売しているものでないといけない。
 
 #### Roblox部門
 - 制作期間 2023/08/04 ~ 2023/08/06
