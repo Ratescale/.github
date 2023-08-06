@@ -9,12 +9,6 @@
 
 ### MCA2023 https://github.com/Ratescale/MCA2023/blob/main/README.md
 
-#### Roblox部門
-- 制作期間 2023/08/04 ~ 2023/08/06
-
-### 宇都宮アクセラレーター2023
-- リンク https://www.program-utsunomiya.ignitionpoint-inc.com/
-- 応募期限 2023/08/06
 
 ### PLATEAU AWARD 2023
 - リンク https://www.mlit.go.jp/plateau-next/award/#introduction
