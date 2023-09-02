@@ -3,6 +3,9 @@
 - [宇宙事業アイデア管理](https://github.com/Ratescale/newspacebiz)
 - [参加プロジェクト・イベント用Issue](https://github.com/Ratescale/project.README/issues)
 
+## 宇宙メディア
+- [SORABATAKE](https://sorabatake.jp/)
+
 ## 参加予定
 ### NASA International Space Apps Challenge 2023
 個人で参加するかABLabでメンバーを集めて参加するか(予定)
