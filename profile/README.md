@@ -5,6 +5,7 @@
 
 ## 宇宙メディア
 - [SORABATAKE](https://sorabatake.jp/)
+- [Zenn:技術ブログが読める。衛星とかキーワードで検索](https://zenn.dev/articles/explore)
 
 ## 参加予定
 ### NASA International Space Apps Challenge 2023
