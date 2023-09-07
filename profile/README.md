@@ -13,7 +13,8 @@
 ### NASA International Space Apps Challenge 2023
 個人で参加するかABLabでメンバーを集めて参加するか(予定)
 
-
+### LAUNCHPAD SEED 2023 Winter
+- 応募締め切り 2023.9.22(金) https://www.ivs.events/ja/launchpadseed2023-winter
 ### PLATEAU AWARD 2023
 - リンク https://www.mlit.go.jp/plateau-next/award/#introduction
 
