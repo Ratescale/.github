@@ -15,6 +15,15 @@
 
 ### LAUNCHPAD SEED 2023 Winter
 - 応募締め切り 2023.9.22(金) https://www.ivs.events/ja/launchpadseed2023-winter
+
+### ASAC アクセラレーションプログラム
+- 応募期限 9.18 https://acceleration.tokyo.jp/program.php
+
+### Rocket Pitch Night
+- 応募期限 申込締切：2023年10月29日（日）11:59 pm JSTまで
+- 日時：2023年11月30日（木）15:00～21:30（日本時間）
+- プレス https://prtimes.jp/main/html/rd/p/000000054.000063842.html
+
 ### PLATEAU AWARD 2023
 - リンク https://www.mlit.go.jp/plateau-next/award/#introduction
 
