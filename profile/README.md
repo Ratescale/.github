@@ -18,6 +18,7 @@
 
 ### ASAC アクセラレーションプログラム
 - 応募期限 9.18 https://acceleration.tokyo.jp/program.php
+- 応募完了✔︎
 
 ### Rocket Pitch Night
 - 応募期限 申込締切：2023年10月29日（日）11:59 pm JSTまで
