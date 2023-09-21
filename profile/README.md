@@ -25,6 +25,7 @@
 
 ### PLATEAU AWARD 2023
 - リンク https://www.mlit.go.jp/plateau-next/award/#introduction
+- 応募期限 2023/11/30 Thu
 
 ## 管理
 - [イベント情報issue](https://github.com/Ratescale/project.README/issues/1)
