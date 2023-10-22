@@ -9,19 +9,16 @@
 - [Zenn:技術ブログが読める。衛星とかキーワードで検索](https://zenn.dev/articles/explore)
 - JAXA新規事業促進部(いろいろ載っていて神サイト) https://aerospacebiz.jaxa.jp/
 
-## 参加予定
-### NASA International Space Apps Challenge 2023
-個人で参加するかABLabでメンバーを集めて参加するか(予定)
-
-
-### ASAC アクセラレーションプログラム
-- 応募期限 9.18 https://acceleration.tokyo.jp/program.php
-- 応募完了✔︎
-
+## upcoming
 ### Rocket Pitch Night
 - 応募期限 申込締切：2023年10月29日（日）11:59 pm JSTまで
 - 日時：2023年11月30日（木）15:00～21:30（日本時間）
 - プレス https://prtimes.jp/main/html/rd/p/000000054.000063842.html
+
+### YOXO出展応募
+- 応募期限 2023年10月31日(火) 17:00まで
+- https://yoxo-o.jp/yoxofestival/
+
 
 ### PLATEAU AWARD 2023
 - リンク https://www.mlit.go.jp/plateau-next/award/#introduction
