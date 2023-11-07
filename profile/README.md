@@ -10,16 +10,6 @@
 - JAXA新規事業促進部(いろいろ載っていて神サイト) https://aerospacebiz.jaxa.jp/
 
 ## upcoming
-### Rocket Pitch Night
-- 応募期限 申込締切：2023年10月29日（日）11:59 pm JSTまで
-- 日時：2023年11月30日（木）15:00～21:30（日本時間）
-- プレス https://prtimes.jp/main/html/rd/p/000000054.000063842.html
-
-### YOXO出展応募
-- 応募期限 2023年10月31日(火) 17:00まで
-- https://yoxo-o.jp/yoxofestival/
-
-
 ### PLATEAU AWARD 2023
 - リンク https://www.mlit.go.jp/plateau-next/award/#introduction
 - 応募期限 2023/11/30 Thu
