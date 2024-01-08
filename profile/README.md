@@ -1,5 +1,5 @@
 # 全体管理
-- [全体タスク管理用リポジトリ](https://github.com/Ratescale/project.README)
+- [全体管理用リポジトリ](https://github.com/Ratescale/project.README)
 - [宇宙事業アイデア管理](https://github.com/Ratescale/newspacebiz)
 - [参加プロジェクト・イベント用Issue](https://github.com/Ratescale/project.README/issues)
 
